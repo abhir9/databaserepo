@@ -1,7 +1,7 @@
 
-
+TRUNCATE `votw`.`DocumentTypes`;
 INSERT INTO votw.DocumentTypes (name) VALUES ("Passport");
-INSERT INTO votw.DocumentTypes (name) VALUES ("Residentail Proof");
+INSERT INTO votw.DocumentTypes (name) VALUES ("Residential Proof");
 INSERT INTO votw.DocumentTypes (name) VALUES ("Aadhar Card");
 INSERT INTO votw.DocumentTypes (name) VALUES ("PAN Card");
 INSERT INTO votw.DocumentTypes (name) VALUES ("Electricity Bill");
